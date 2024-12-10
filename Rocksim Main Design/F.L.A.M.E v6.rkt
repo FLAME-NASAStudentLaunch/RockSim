@@ -1,106 +1,106 @@
 <RockSimDocument>
-  <FileVersion>4</FileVersion>
-  <DesignInformation>
-    <RocketDesign>
-      <Name>F.L.A.M.E</Name>
-      <CalculateCD>1</CalculateCD>
-      <ProCalculateCD>1</ProCalculateCD>
-      <ProCalculateCN>1</ProCalculateCN>
-      <FixedCd>0.75</FixedCd>
-      <FixedCd2>0.8</FixedCd2>
-      <FixedCd3>0.81</FixedCd3>
-      <FixedCd2Alone>0.95</FixedCd2Alone>
-      <FixedCd3Alone>0.95</FixedCd3Alone>
-      <StageCount>1</StageCount>
-      <Stage3Mass>0.</Stage3Mass>
-      <Stage2Mass>0.</Stage2Mass>
-      <Stage1Mass>0.</Stage1Mass>
-      <Stage321CG>0.</Stage321CG>
-      <Stage32CG>0.</Stage32CG>
-      <Stage3CG>0.</Stage3CG>
-      <Stage2CGAlone>0.</Stage2CGAlone>
-      <Stage1CGAlone>0.</Stage1CGAlone>
-      <CPCalcFlags>4</CPCalcFlags>
-      <LaunchGuideLength>914.4</LaunchGuideLength>
-      <UseKnownMass>0</UseKnownMass>
-      <DefaultFinish>0</DefaultFinish>
-      <FinishMedium>0</FinishMedium>
-      <FinishCoatCount>1</FinishCoatCount>
-      <GlueType>0</GlueType>
-      <CPSimFlags>4</CPSimFlags>
-      <LastSerialNumber>32</LastSerialNumber>
-      <DisplayFlags>1</DisplayFlags>
-      <MetricsFlags>0</MetricsFlags>
-      <CameraState>CSV1|1|930.659,-9.9476e-14,-1.42109e-14|946.698,1462.78,-1442.66|-0.362211,0.656522,0.661651|1728.96,2469.39|30|2|2054.57|20.7832|0|0|0|0</CameraState>
-      <BarromanXN>0,1074.74,0,0</BarromanXN>
-      <BarrowmanCNa>0,4.98894,0,0</BarrowmanCNa>
-      <RockSimXN>0,1224.23,0,0</RockSimXN>
-      <RockSimCNa>0,6.58201,0,0</RockSimCNa>
-      <RockSimCNa90>0,0,0,0</RockSimCNa90>
-      <RockSimXN90>0,0,0,0</RockSimXN90>
-      <ViewType>0</ViewType>
-      <ViewStageCount>1</ViewStageCount>
-      <ViewTypeEdit>0</ViewTypeEdit>
-      <ViewStageCountEdit>1</ViewStageCountEdit>
-      <ZoomFactor>0.</ZoomFactor>
-      <ZoomFactorEdit>0.</ZoomFactorEdit>
-      <ScrollPosX>0</ScrollPosX>
-      <ScrollPosY>0</ScrollPosY>
-      <ScrollPosXEdit>0</ScrollPosXEdit>
-      <ScrollPosYEdit>0</ScrollPosYEdit>
-      <ThreeDFlags>0</ThreeDFlags>
-      <ThreeDFlagsEdit>0</ThreeDFlagsEdit>
-      <UseModelSprite>0</UseModelSprite>
-      <StaticMarginRef>0</StaticMarginRef>
-      <UserRefDiameter>0.</UserRefDiameter>
-      <SideMarkerHeight>9.99998</SideMarkerHeight>
-      <SideDimensionHeight>9.99998</SideDimensionHeight>
-      <BaseMarkerHeight>9.99998</BaseMarkerHeight>
-      <BaseDimensionHeight>9.99998</BaseDimensionHeight>
-      <ShowGlideCP>0</ShowGlideCP>
-      <ShowGridTypeSide>0</ShowGridTypeSide>
-      <ShowGridTypeBase>0</ShowGridTypeBase>
-      <GridSpacing>10.</GridSpacing>
-      <GridOpacity>0.15</GridOpacity>
-      <GridColor>black</GridColor>
-      <MaxDiaWithFins>206.529</MaxDiaWithFins>
-      <MaxDiaWithoutFins>103.632</MaxDiaWithoutFins>
-      <MaxLenWithFins>1845.94</MaxLenWithFins>
-      <MaxLenWithoutFins>1845.94</MaxLenWithoutFins>
-      <MinXExtent>0.</MinXExtent>
-      <MaxXExtent>1845.94</MaxXExtent>
-      <CalculatedMaxStageDia>0,103.632,0,0</CalculatedMaxStageDia>
-      <CalculatedStageLen>0,1845.94,0,0</CalculatedStageLen>
-      <Cd3>
-        <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
-        <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
-        <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
-        <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
-        <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
-      </PolyData>
-    </Cd3>
-    <Cd32>
-      <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
-      <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
-      <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
-      <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
-      <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
-    </PolyData>
-  </Cd32>
-  <Cd321>
-    <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
-    <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
-    <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
-    <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
-    <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
-  </PolyData>
+<FileVersion>4</FileVersion>
+<DesignInformation>
+<RocketDesign>
+<Name>F.L.A.M.E</Name>
+<CalculateCD>1</CalculateCD>
+<ProCalculateCD>1</ProCalculateCD>
+<ProCalculateCN>1</ProCalculateCN>
+<FixedCd>0.75</FixedCd>
+<FixedCd2>0.8</FixedCd2>
+<FixedCd3>0.81</FixedCd3>
+<FixedCd2Alone>0.95</FixedCd2Alone>
+<FixedCd3Alone>0.95</FixedCd3Alone>
+<StageCount>1</StageCount>
+<Stage3Mass>0.</Stage3Mass>
+<Stage2Mass>0.</Stage2Mass>
+<Stage1Mass>0.</Stage1Mass>
+<Stage321CG>0.</Stage321CG>
+<Stage32CG>0.</Stage32CG>
+<Stage3CG>0.</Stage3CG>
+<Stage2CGAlone>0.</Stage2CGAlone>
+<Stage1CGAlone>0.</Stage1CGAlone>
+<CPCalcFlags>4</CPCalcFlags>
+<LaunchGuideLength>914.4</LaunchGuideLength>
+<UseKnownMass>0</UseKnownMass>
+<DefaultFinish>0</DefaultFinish>
+<FinishMedium>0</FinishMedium>
+<FinishCoatCount>1</FinishCoatCount>
+<GlueType>0</GlueType>
+<CPSimFlags>4</CPSimFlags>
+<LastSerialNumber>33</LastSerialNumber>
+<DisplayFlags>1</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<CameraState>CSV1|1|930.659,-9.9476e-14,-1.42109e-14|946.698,1462.78,-1442.66|-0.362211,0.656522,0.661651|1728.96,2469.39|30|2|2054.57|20.7832|0|0|0|0</CameraState>
+<BarromanXN>0,1120.36,0,0</BarromanXN>
+<BarrowmanCNa>0,4.987,0,0</BarrowmanCNa>
+<RockSimXN>0,1277.19,0,0</RockSimXN>
+<RockSimCNa>0,6.58201,0,0</RockSimCNa>
+<RockSimCNa90>0,0,0,0</RockSimCNa90>
+<RockSimXN90>0,0,0,0</RockSimXN90>
+<ViewType>0</ViewType>
+<ViewStageCount>1</ViewStageCount>
+<ViewTypeEdit>0</ViewTypeEdit>
+<ViewStageCountEdit>1</ViewStageCountEdit>
+<ZoomFactor>0.</ZoomFactor>
+<ZoomFactorEdit>0.</ZoomFactorEdit>
+<ScrollPosX>0</ScrollPosX>
+<ScrollPosY>0</ScrollPosY>
+<ScrollPosXEdit>0</ScrollPosXEdit>
+<ScrollPosYEdit>0</ScrollPosYEdit>
+<ThreeDFlags>0</ThreeDFlags>
+<ThreeDFlagsEdit>0</ThreeDFlagsEdit>
+<UseModelSprite>0</UseModelSprite>
+<StaticMarginRef>0</StaticMarginRef>
+<UserRefDiameter>0.</UserRefDiameter>
+<SideMarkerHeight>9.99998</SideMarkerHeight>
+<SideDimensionHeight>9.99998</SideDimensionHeight>
+<BaseMarkerHeight>9.99998</BaseMarkerHeight>
+<BaseDimensionHeight>9.99998</BaseDimensionHeight>
+<ShowGlideCP>0</ShowGlideCP>
+<ShowGridTypeSide>0</ShowGridTypeSide>
+<ShowGridTypeBase>0</ShowGridTypeBase>
+<GridSpacing>10.</GridSpacing>
+<GridOpacity>0.15</GridOpacity>
+<GridColor>black</GridColor>
+<MaxDiaWithFins>206.529</MaxDiaWithFins>
+<MaxDiaWithoutFins>103.632</MaxDiaWithoutFins>
+<MaxLenWithFins>1903.1</MaxLenWithFins>
+<MaxLenWithoutFins>1903.1</MaxLenWithoutFins>
+<MinXExtent>0.</MinXExtent>
+<MaxXExtent>1903.1</MaxXExtent>
+<CalculatedMaxStageDia>0,103.632,0,0</CalculatedMaxStageDia>
+<CalculatedStageLen>0,1903.1,0,0</CalculatedStageLen>
+<Cd3>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</Cd3>
+<Cd32>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</Cd32>
+<Cd321>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
 </Cd321>
 <Cb3>
-  <PolyData  useXYOnly="1" useSmoothCurveEvaluation="0" count="0">
-  <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
-  <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
-  <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
-  <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+<PolyData  useXYOnly="1" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
 </PolyData>
 </Cb3>
 <Cb32>
@@ -671,10 +671,10 @@
 <KnownCG>0.</KnownCG>
 <UseKnownCG>0</UseKnownCG>
 <Xb>0.</Xb>
-<CalcMass>62.4388</CalcMass>
-<CalcCG>317.5</CalcCG>
-<WettedSurface>0.206737</WettedSurface>
-<PaintedSurface>0.206737</PaintedSurface>
+<CalcMass>69.931</CalcMass>
+<CalcCG>355.6</CalcCG>
+<WettedSurface>0.231545</WettedSurface>
+<PaintedSurface>0.231545</PaintedSurface>
 <GlueJointLength>0.</GlueJointLength>
 <DensityType>0</DensityType>
 <PartNo>10607</PartNo>
@@ -707,7 +707,7 @@
 <Station>1188.72</Station>
 <OD>103.632</OD>
 <ID>98.806</ID>
-<Len>635.</Len>
+<Len>711.2</Len>
 <FinishCode>0</FinishCode>
 <IsMotorMount>0</IsMotorMount>
 <MotorDia>0.</MotorDia>
@@ -831,7 +831,7 @@
 <Name>Motor Tube</Name>
 <KnownCG>0.</KnownCG>
 <UseKnownCG>0</UseKnownCG>
-<Xb>263.525</Xb>
+<Xb>320.675</Xb>
 <CalcMass>13.498</CalcMass>
 <CalcCG>196.85</CalcCG>
 <WettedSurface>0.</WettedSurface>
@@ -853,7 +853,7 @@
 <SpecularColor>white</SpecularColor>
 <UseSingleColor>1</UseSingleColor>
 <SerialNo>4</SerialNo>
-<DisplayFlags>0</DisplayFlags>
+<DisplayFlags>1</DisplayFlags>
 <MetricsFlags>0</MetricsFlags>
 <LocationMode>0</LocationMode>
 <Color>blue</Color>
@@ -865,7 +865,7 @@
 <ProduceTemplate>0</ProduceTemplate>
 <TemplateUnits>8</TemplateUnits>
 <Removed>0</Removed>
-<Station>1452.24</Station>
+<Station>1509.39</Station>
 <OD>57.404</OD>
 <ID>54.356</ID>
 <Len>393.7</Len>
@@ -878,51 +878,6 @@
 <IsInsideTube>1</IsInsideTube>
 <isStrapOnTube>0</isStrapOnTube>
 <AttachedParts>
-<MassObject>
-<PartMfg>Custom</PartMfg>
-<KnownMass>266.</KnownMass>
-<Density>0.</Density>
-<Name>Motor Retainer</Name>
-<KnownCG>393.7</KnownCG>
-<UseKnownCG>1</UseKnownCG>
-<Xb>393.7</Xb>
-<CalcMass>0.</CalcMass>
-<CalcCG>0.</CalcCG>
-<WettedSurface>0.</WettedSurface>
-<PaintedSurface>0.</PaintedSurface>
-<GlueJointLength>0.</GlueJointLength>
-<DensityType>0</DensityType>
-<RadialLoc>0.</RadialLoc>
-<RadialAngle>0.</RadialAngle>
-<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr=(0)|flips=(0)|flipt=(0)|preventseam=(1)|rotate=(0)</Texture>
-<Opacity>1.</Opacity>
-<Specular>0.</Specular>
-<SpecularPower>1.</SpecularPower>
-<Ambient>0.</Ambient>
-<Diffuse>1.</Diffuse>
-<AbientColor>blue</AbientColor>
-<DiffuseColor>blue</DiffuseColor>
-<SpecularColor>white</SpecularColor>
-<UseSingleColor>1</UseSingleColor>
-<SerialNo>32</SerialNo>
-<DisplayFlags>0</DisplayFlags>
-<MetricsFlags>0</MetricsFlags>
-<LocationMode>0</LocationMode>
-<Color>blue</Color>
-<BarrowmanCNa>0.</BarrowmanCNa>
-<BarrowmanXN>0.</BarrowmanXN>
-<RockSimCNa>0.</RockSimCNa>
-<RockSimXN>0.</RockSimXN>
-<SimpleColorModel>1</SimpleColorModel>
-<ProduceTemplate>0</ProduceTemplate>
-<TemplateUnits>8</TemplateUnits>
-<Removed>0</Removed>
-<Station>1845.94</Station>
-<TypeCode>0</TypeCode>
-<Len>0.</Len>
-<AttachedParts>
-</AttachedParts>
-</MassObject>
 </AttachedParts>
 </BodyTube>
 <CustomFinSet>
@@ -957,21 +912,21 @@
 <MetricsFlags>0</MetricsFlags>
 <LocationMode>2</LocationMode>
 <Color>blue</Color>
-<BarrowmanCNa>2.98894</BarrowmanCNa>
-<BarrowmanXN>1.69317</BarrowmanXN>
+<BarrowmanCNa>2.987</BarrowmanCNa>
+<BarrowmanXN>1.76973</BarrowmanXN>
 <RockSimCNa>4.58201</RockSimCNa>
-<RockSimXN>1.69289</RockSimXN>
+<RockSimXN>1.76897</RockSimXN>
 <SimpleColorModel>1</SimpleColorModel>
 <ProduceTemplate>0</ProduceTemplate>
 <TemplateUnits>8</TemplateUnits>
 <Removed>0</Removed>
-<Station>1646.21</Station>
+<Station>1722.41</Station>
 <FinCount>4</FinCount>
 <RootChord>177.51</RootChord>
-<TipChord>116.48</TipChord>
+<TipChord>113.24</TipChord>
 <SemiSpan>51.45</SemiSpan>
 <MidChordLen>52.3555</MidChordLen>
-<SweepDistance>20.82</SweepDistance>
+<SweepDistance>22.44</SweepDistance>
 <Thickness>2.99974</Thickness>
 <ShapeCode>2</ShapeCode>
 <FinishCode>1</FinishCode>
@@ -982,16 +937,16 @@
 <SweepMode>1</SweepMode>
 <SweepAngle>0.</SweepAngle>
 <RockSimXNPerFin>0.</RockSimXNPerFin>
-<RockSimRadialXNPerFin>75.7602</RockSimRadialXNPerFin>
+<RockSimRadialXNPerFin>75.6448</RockSimRadialXNPerFin>
 <RockSimCNaPerFin>2.29101</RockSimCNaPerFin>
-<TaperRatio>0.656188</TaperRatio>
+<TaperRatio>0.637936</TaperRatio>
 <CantAngle>0.</CantAngle>
-<CantPivotPoint>88.755</CantPivotPoint>
+<CantPivotPoint>88.7552</CantPivotPoint>
 <UseConstThickness>0</UseConstThickness>
 <LocMaxThick>0.25</LocMaxThick>
-<AverageChord>149.2</AverageChord>
-<EffectiveTipChord>116.477</EffectiveTipChord>
-<PointList>177.514,0|148.495,40.5374|147.006,42.4228|145.345,44.1592|143.527,45.7307|141.569,47.1236|139.489,48.325|137.304,49.3245|135.034,50.1132|132.7,50.6837|127.923,51.1526|35.0017,51.4485|31.7927,51.2552|28.6337,50.6583|25.5755,49.6669|22.667,48.2973|19.9548,46.5714|17.4824,44.5165|15.2893,42.1658|13.4107,39.5569|10.7118,33.7355|0,0|0,0|0,0|</PointList>
+<AverageChord>147.7</AverageChord>
+<EffectiveTipChord>113.244</EffectiveTipChord>
+<PointList>177.514,0|148.495,40.5374|147.006,42.4228|145.345,44.1592|143.527,45.7307|141.569,47.1236|139.489,48.325|137.304,49.3245|135.034,50.1132|132.7,50.6837|127.923,51.1526|35.0017,51.4485|31.7927,51.2552|28.6337,50.6583|25.5755,49.6669|22.667,48.2973|19.9548,46.5714|17.4824,44.5165|15.2893,42.1658|13.4107,39.5569|10.7118,33.7355|0,0|0,0|0,0|0,0|</PointList>
 <AutoCalcGridStepX>0,0,0,0,0,0,0</AutoCalcGridStepX>
 <GridStepCountX>10,10,10,10,10,10,10</GridStepCountX>
 <UseAbsoluteGridStepsX>0,0,0,0,0,0,0</UseAbsoluteGridStepsX>
@@ -1148,9 +1103,9 @@
 <Name>Centering ring</Name>
 <KnownCG>0.</KnownCG>
 <UseKnownCG>1</UseKnownCG>
-<Xb>482.6</Xb>
-<CalcMass>1.96795</CalcMass>
-<CalcCG>1.5</CalcCG>
+<Xb>555.625</Xb>
+<CalcMass>1.96778</CalcMass>
+<CalcCG>1.49987</CalcCG>
 <WettedSurface>0.</WettedSurface>
 <PaintedSurface>0.</PaintedSurface>
 <GlueJointLength>0.</GlueJointLength>
@@ -1182,10 +1137,10 @@
 <ProduceTemplate>0</ProduceTemplate>
 <TemplateUnits>8</TemplateUnits>
 <Removed>0</Removed>
-<Station>1671.32</Station>
+<Station>1744.35</Station>
 <OD>99.06</OD>
 <ID>57.404</ID>
-<Len>3.</Len>
+<Len>2.99974</Len>
 <FinishCode>2</FinishCode>
 <UsageCode>0</UsageCode>
 <AutoSize>0</AutoSize>
@@ -1244,6 +1199,51 @@
 <AttachedParts>
 </AttachedParts>
 </Ring>
+<MassObject>
+<PartMfg>Custom</PartMfg>
+<KnownMass>266.</KnownMass>
+<Density>0.</Density>
+<Name>Motor Retainer</Name>
+<KnownCG>711.2</KnownCG>
+<UseKnownCG>1</UseKnownCG>
+<Xb>711.2</Xb>
+<CalcMass>0.</CalcMass>
+<CalcCG>0.</CalcCG>
+<WettedSurface>0.</WettedSurface>
+<PaintedSurface>0.</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr=(0)|flips=(0)|flipt=(0)|preventseam=(1)|rotate=(0)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>blue</AbientColor>
+<DiffuseColor>blue</DiffuseColor>
+<SpecularColor>white</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>33</SerialNo>
+<DisplayFlags>0</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>0</LocationMode>
+<Color>blue</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>1899.92</Station>
+<TypeCode>0</TypeCode>
+<Len>0.</Len>
+<AttachedParts>
+</AttachedParts>
+</MassObject>
 </AttachedParts>
 </BodyTube>
 </Stage3Parts>
